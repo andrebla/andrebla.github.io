@@ -7,13 +7,13 @@ featured_image: '/images/mastercardmascots/mastercardmascots_thumb.jpg'
 
 ![](/images/mastercardmascots/mastercardmascots_01.jpg)
 
-Ação da Mastercard durante amistoso da Copa das Confederações 2019 em conjunto com o Hospital de Amor de Barretos.
-
 * 2019
 * [Mastercard](https://www.mastercard.com.br/)
 * [WMcCann](https://www.wmccann.com/)
 * [Hospital de Amor](https://hospitaldeamor.com.br/)
 * [MediaMonks](https://www.mediamonks.com/)
+
+Ação da Mastercard durante amistoso da Copa das Confederações 2019 em conjunto com o Hospital de Amor de Barretos.
 
 **Responsável por:** Especificação de requisitos, preparação dos arquivos de projeto para confecção das matrizes em CNC, montagem, programação do controlador, operação durante a ação.
 

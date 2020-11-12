@@ -1,0 +1,24 @@
+---
+title: 'New Captiva Test Drive'
+subtitle: ''
+date: 2019-05-05 00:00:00
+featured_image: '/images/newcaptiva/newcaptiva_thumb.jpg'
+---
+
+![](/images/theboys/theboys_01.jpg)
+
+* 2019
+* [Google Zoo]()
+* [Chevrolet](https://www.chevrolet.com.br/)
+* [MediaMonks](https://www.mediamonks.com/)
+
+Uma ação interativa com a detecção da reação de pedestres durante eventos de *test drive* de lançamento do Chevrolet Captiva 2019.
+
+**Responsável por:** Descritivo técnico, especificação de requisitos, dimensionamento elétrico e montagem.
+
+<div class="gallery" data-columns="2">
+	<img src="/images/newcaptiva/newcaptiva_02.jpg">
+	<img src="/images/newcaptiva/newcaptiva_03.jpg">
+</div>
+
+<a href='/' class="button button--large">Voltar</a>

@@ -7,12 +7,12 @@ featured_image: '/images/facebookcannes/facebookcannes_thumb.jpg'
 
 ![](/images/facebookcannes/facebookcannes_01.jpg)
 
-Instalação cinética interativa para o Facebook Community Hub durante o festival Cannes Lions 2019.
-
 * 2019
 * [Facebook](https://www.facebook.com/)
 * [72andSunny](https://www.72andsunny.com/)
 * [MediaMonks](https://www.mediamonks.com/)
+
+Instalação cinética interativa para o Facebook Community Hub durante o festival Cannes Lions 2019.
 
 **Responsável por:** Programação dos efeitos de luz, integração com aplicação Unity, suporte durante montagem e evento.
 
