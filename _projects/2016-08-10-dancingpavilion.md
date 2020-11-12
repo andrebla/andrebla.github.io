@@ -1,7 +1,7 @@
 ---
 title: 'Dancing Pavilion'
 subtitle: ''
-date: 2019-05-23 00:00:00
+date: 2016-08-10 00:00:00
 featured_image: '/images/dancingpavilion/dancingpavilion_thumb.jpg'
 ---
 

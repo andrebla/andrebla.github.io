@@ -1,7 +1,7 @@
 ---
 title: 'White Mirror'
 subtitle: ''
-date: 2019-05-23 00:00:00
+date: 2017-09-09 00:00:00
 featured_image: '/images/whitemirror/whitemirror_thumb.jpg'
 ---
 
