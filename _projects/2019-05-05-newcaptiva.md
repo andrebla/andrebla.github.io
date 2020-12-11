@@ -5,7 +5,7 @@ date: 2019-05-05 00:00:00
 featured_image: '/images/newcaptiva/newcaptiva_thumb.jpg'
 ---
 
-![](/images/theboys/theboys_01.jpg)
+![](/images/newcaptiva/newcaptiva_02.jpg)
 
 * 2019
 * [Google Zoo]()
@@ -16,9 +16,8 @@ Uma ação interativa com a detecção da reação de pedestres durante eventos 
 
 **Responsável por:** Descritivo técnico, especificação de requisitos, dimensionamento elétrico e montagem.
 
-<div class="gallery" data-columns="2">
-	<img src="/images/newcaptiva/newcaptiva_02.jpg">
-	<img src="/images/newcaptiva/newcaptiva_03.jpg">
+<div class="gallery" data-columns="1">
+	<img src="/images/newcaptiva/newcaptiva_01.jpg">
 </div>
 
 <a href='/' class="button button--large">Voltar</a>
