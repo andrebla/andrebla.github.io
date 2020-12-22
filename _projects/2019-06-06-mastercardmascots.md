@@ -17,6 +17,9 @@ Ação da Mastercard durante amistoso da Copa das Confederações 2019 em conjun
 
 **Responsável por:** Especificação de requisitos, preparação dos arquivos de projeto para confecção das matrizes em CNC, montagem, programação do controlador, operação durante a ação.
 
+### Prêmios:
+* [FWA OF THE DAY - 07 JULY 2019](https://thefwa.com/cases/mastercard-impossible-mascots)
+
 <div class="gallery" data-columns="2">
 	<img src="/images/mastercardmascots/mastercardmascots_02.jpg">
 	<img src="/images/mastercardmascots/mastercardmascots_03.jpg">
