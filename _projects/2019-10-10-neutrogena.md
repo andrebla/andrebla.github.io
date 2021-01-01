@@ -16,7 +16,12 @@ Instalação interativa presente em hubs Amazon para divulgação de produtos Ne
 **Responsável por:** Especificação de requisitos, projeto e programação dos controladores de luz, montagem e suporte durante a ação.
 
 <div class="gallery" data-columns="2">
-	<img src="/images/neutrogena/neutrogena_02.jpg">
+	<img src="/images/neutrogena/neutrogena_03.jpg">
+	<img src="/images/neutrogena/neutrogena_04.jpg">
+	<img src="/images/neutrogena/neutrogena_05.jpg">
+	<img src="/images/neutrogena/neutrogena_06.jpg">
 </div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sVMRFREiKlE?start=498" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <a href='/' class="button button--large">Voltar</a>

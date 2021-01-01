@@ -16,8 +16,11 @@ Uma ação interativa com a detecção da reação de pedestres durante eventos 
 
 **Responsável por:** Descritivo técnico, especificação de requisitos, dimensionamento elétrico e montagem.
 
-<div class="gallery" data-columns="1">
+<div class="gallery" data-columns="2">
+	<img src="/images/newcaptiva/newcaptiva_04.jpg">
 	<img src="/images/newcaptiva/newcaptiva_01.jpg">
+	<img src="/images/newcaptiva/newcaptiva_03.jpg">
+	<img src="/images/newcaptiva/newcaptiva_05.jpg">
 </div>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/JRCW27M8UWY?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
