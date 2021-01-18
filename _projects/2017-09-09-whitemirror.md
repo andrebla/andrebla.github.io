@@ -5,7 +5,7 @@ date: 2017-09-09 00:00:00
 featured_image: '/images/whitemirror/whitemirror_thumb.jpg'
 ---
 
-![](/images/whitemirror/whitemirror_05.jpg)
+![](/images/whitemirror/whitemirror_02.jpg)
 
 * 2017
 * [Nubank](https://nubank.com.br/)
@@ -17,7 +17,7 @@ Painel interativo, presente no saguão do escritório do Nubank, em São Paulo.
 
 <div class="gallery" data-columns="2">
 	<img src="/images/whitemirror/whitemirror_01.jpg">
-	<img src="/images/whitemirror/whitemirror_02.jpg">
+	<img src="/images/whitemirror/whitemirror_05.jpg">
 	<img src="/images/whitemirror/whitemirror_03.jpg">
 	<img src="/images/whitemirror/whitemirror_04.jpg">
 </div>
