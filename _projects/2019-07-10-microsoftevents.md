@@ -22,6 +22,6 @@ Estande com algumas experiências para divulgação de produtos Microsoft em seu
 	<img src="/images/microsoftevents/microsoftevents_02.jpg">
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/phV7eDCphho?start=498" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/phV7eDCphho" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <a href='/' class="button button--large">Voltar</a>
