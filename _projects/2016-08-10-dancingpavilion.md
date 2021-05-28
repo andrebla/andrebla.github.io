@@ -14,7 +14,7 @@ featured_image: '/images/dancingpavilion/dancingpavilion_thumb.jpg'
 
 Instalação cinética no estande da Skol nos Jogos Olímpicos de 2016, no Rio de Janeiro.
 
-**Responsável por:** Projeto eletrônico da placa de interface da controladore e motor, ensaios, confecção, montagem e suporte durante evento.
+**Responsável por:** Projeto eletrônico da placa de interface entre módulo de controle e comunicação, motor, alimentação e circuito de proteção, ensaios, confecção, montagem e suporte durante evento.
 
 <div class="gallery" data-columns="2">
 	<img src="/images/dancingpavilion/dancingpavilion_04.jpg">
