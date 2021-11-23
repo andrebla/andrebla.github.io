@@ -2,6 +2,7 @@
 title: 'White Mirror'
 subtitle: ''
 date: 2017-09-09 00:00:00
+order: 2
 featured_image: '/images/whitemirror/whitemirror_thumb.jpg'
 ---
 
