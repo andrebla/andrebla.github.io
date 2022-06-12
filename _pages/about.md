@@ -11,7 +11,7 @@ featured_image: /images/about/workbench.jpg
 
 ## Experiência:
 
-JUL2021/ATUAL - Engenheiro Eletrônico [Gabriel Tecnologia](https://www.gabriel.com.br/)
+JUL 2021/ATUAL - Engenheiro Eletrônico [Gabriel Tecnologia](https://www.gabriel.com.br/)
 
 2017 - Consultor em engenharia eletrônica [Fiozera](https://fiozera.com.br/)
 
