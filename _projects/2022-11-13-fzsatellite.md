@@ -5,7 +5,7 @@ date: 2022-11-15 01:00:00
 featured_image: '/images/fzsat/fzsat_thumb.jpg'
 ---
 
-![](/images/fzsat/fzsat_01.jpg)
+![](/images/fzsat/fzsat_05.png)
 
 ## Um satélite PocketQube
 
@@ -29,10 +29,10 @@ Desenvolvido em colaboração com:
 [Matéria do jornal O Estado de São Paulo](https://www.estadao.com.br/link/cultura-digital/satelite-brasileiro-lancado-pela-spacex-vai-homenagear-pessoas-que-ja-morreram/)
 
 <div class="gallery" data-columns="2">
+	<img src="/images/fzsat/fzsat_01.jpg">
 	<img src="/images/fzsat/fzsat_02.jpg">
 	<img src="/images/fzsat/fzsat_03.jpg">
 	<img src="/images/fzsat/fzsat_04.jpg">
-	<img src="/images/fzsat/fzsat_05.png">
 </div>
 
 <a href='/' class="button button--large">Voltar</a>
