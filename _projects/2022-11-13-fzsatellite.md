@@ -13,10 +13,10 @@ featured_image: '/images/fzsat/fzsat_thumb.jpg'
 * [Fiozera](https://fiozera.com.br/)
 
 Um satélite PocketQube de *hardware* aberto utilizado na peça artística chamada Templo Orbital. Projeto em **progresso**.
-Projeto desenvolvido em colaboração com:
-[Jonathan Querubina](https://github.com/chr0nu5)
-[Pedro Kaled](https://github.com/pedrokdc)
-Edson Pavoni
+Desenvolvido em colaboração com:
+* [Jonathan Querubina](https://github.com/chr0nu5)
+* [Pedro Kaled](https://github.com/pedrokdc)
+* Edson Pavoni
 
 **Responsável por:** Projeto eletrônico.
 
@@ -32,7 +32,7 @@ Edson Pavoni
 	<img src="/images/fzsat/fzsat_02.jpg">
 	<img src="/images/fzsat/fzsat_03.jpg">
 	<img src="/images/fzsat/fzsat_04.jpg">
-	<img src="/images/fzsat/fzsat_05.jpg">
+	<img src="/images/fzsat/fzsat_05.png">
 </div>
 
 <a href='/' class="button button--large">Voltar</a>
