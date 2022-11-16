@@ -2,10 +2,10 @@
 title: 'Patinho Feio'
 subtitle: ''
 date: 2022-10-22 12:00:00
-featured_image: '/images/fzsat/patinhofeio_thumb.jpg'
+featured_image: '/images/patinhofeio/patinhofeio_thumb.jpg'
 ---
 
-![](/images/fzsat/patinhofeio_01.jpg)
+![](/images/patinhofeio/patinhofeio_01.jpg)
 
 ## Um computador brasileiro
 
@@ -21,11 +21,11 @@ Projeto desenvolvido em colaboração com:
 [Resgate histórico do computador Patinho Feio (USP - 1971)](https://forum.fiozera.com.br/t/resgate-historico-do-computador-patinho-feio-usp-1971)
 
 <div class="gallery" data-columns="2">
-	<img src="/images/fzsat/patinhofeio_02.jpg">
-	<img src="/images/fzsat/patinhofeio_03.jpg">
+	<img src="/images/patinhofeio/patinhofeio_02.jpg">
+	<img src="/images/patinhofeio/patinhofeio_03.jpg">
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YP_hHPiERgw?t=5029&&controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YP_hHPiERgw?controls=1&start=5029" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6s4q-xO650k?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
